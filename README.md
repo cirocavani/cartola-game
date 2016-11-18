@@ -6,12 +6,14 @@ Cartola FC Environment for [OpenAI Gym](https://gym.openai.com/).
 
 **Requirements**
 
-* Python 3
+* [Python 3](https://www.python.org/)
 * [OpenAI Gym](https://gym.openai.com/)
-* Pyomo
-* Cbc
+* [Pyomo](http://www.pyomo.org/)
+* [Coin-or Cbc](http://www.coin-or.org/projects/Cbc.xml)
 
 **Setup**
+
+Install Cbc.
 
 ```sh
 pip install gym
