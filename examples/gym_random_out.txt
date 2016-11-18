@@ -1,0 +1,840 @@
+[2016-11-18 11:03:14,598] Making new env: Cartola-v0
+[ Round 1 ]
+
+3-5-2
+
+Goleiro -> Nelson de Jesus Silva
+Zagueiro -> Alex Alves Cardoso
+Zagueiro -> Felipe Augusto de Almeida Monteiro
+Zagueiro -> Jonathan Doin
+Meia -> Bruno de Araújo Dybal
+Meia -> Cleiton Ribeiro Xavier
+Meia -> Hugo Gomes dos Santos Silva
+Meia -> José Mário de Bona
+Meia -> Robert Gonçalves Santos
+Atacante -> Luis Fabiano Clemente
+Atacante -> Pablo Dyego da Silva Rosa
+Técnico -> Roger Machado Marques
+
+Team Price: 71.68
+Unused Money: 28.32
+
+Score: 16.90 
+
+[ Round 2 ]
+
+5-4-1
+
+Goleiro -> Denis Cesar de Matos
+Lateral -> Claudio Winck Neto
+Lateral -> Mário Sérgio Valério
+Zagueiro -> Hélio Hermito Zampier Neto
+Zagueiro -> Pablo Nascimento Castro
+Zagueiro -> Vilson Xavier de Meneses Junior
+Meia -> Ronaldo da Silva Souza
+Meia -> William José de Souza
+Meia -> William Schuster Dornelles da Silva
+Atacante -> Marcos Yuri Goncalves da Silva de Souza
+Atacante -> Thiago Nascimento dos Santos
+Técnico -> Claudiomiro Salenave Santiago
+
+Team Price: 33.89
+Unused Money: 66.33
+
+Score: 8.80 
+
+[ Round 3 ]
+
+3-4-3
+
+Goleiro -> Aderbar Melo dos Santos Neto
+Zagueiro -> Aislan Paulo Lotici Back
+Zagueiro -> Nirley da Silva Fonseca
+Zagueiro -> Willian Thiego de Jesus
+Meia -> Augusto César dos Santos Moreira
+Meia -> Marcelo dos Santos
+Meia -> Mateus da Silva Vital Assumpção
+Meia -> Victor Gomes Lemos
+Atacante -> Bruno Henrique Pinto
+Atacante -> Eduardo Colcenti Antunes
+Atacante -> Guilherme Parede Pinheiro
+Técnico -> René Rodrigues Simões
+
+Team Price: 54.07
+Unused Money: 49.64
+
+Score: -2.50 
+
+[ Round 4 ]
+
+3-4-3
+
+Goleiro -> Vitor Prada Macaneiro
+Zagueiro -> Artur Jesus Vieira
+Zagueiro -> Carlos Eduardo Bacila Jatobá
+Zagueiro -> Eduardo Gabriel dos Santos Bauermann
+Meia -> Celso Luís Honorato Júnior
+Meia -> Fernando Paixão da Silva
+Meia -> Héctor Canteros
+Meia -> Leandro Cordeiro de Lima Silva
+Atacante -> Dagoberto Pelentier
+Atacante -> Romário de Souza Faria Júnior
+Atacante -> Wilker Guimarães Cruz
+Técnico -> Luis Antônio Venker de Menezes
+
+Team Price: 45.81
+Unused Money: 58.04
+
+Score: 0.70 
+
+[ Round 5 ]
+
+5-3-2
+
+Goleiro -> Bruno Brígido de Oliveira
+Lateral -> Marcelo Hermes
+Lateral -> Mateus Lucena dos Santos
+Zagueiro -> Manoel Messias Silva Carvalho
+Zagueiro -> Samir Caetano de Souza Santos
+Zagueiro -> Vilson Xavier de Meneses Junior
+Meia -> Fernando Camilo Farias
+Meia -> Jonas Gomes de Sousa
+Meia -> Thiago Henrique Mendes Ribeiro
+Atacante -> Luciano da Rocha Neves
+Atacante -> Orlando Francisco Pires Júnior
+Técnico -> Dorival Guidoni Júnior
+
+Team Price: 82.43
+Unused Money: 20.28
+
+Score: 39.71 
+
+[ Round 6 ]
+
+3-5-2
+
+Goleiro -> Reynaldo Moura Machado dos Santos
+Zagueiro -> Aislan Paulo Lotici Back
+Zagueiro -> Bernardo Fernandes da Silva Júnior
+Zagueiro -> Dráusio Luís Salla Gil
+Meia -> Bruno de Araújo Dybal
+Meia -> Cristian Gabriel Rodríguez Barotti
+Meia -> Hélder de Paula Santos
+Meia -> Matteus Oliveira Santos
+Meia -> Vitor Frezarin Bueno
+Atacante -> Alexandro da Silva Batista
+Atacante -> Guilherme Parede Pinheiro
+Técnico -> Diogo Giacomini
+
+Team Price: 34.93
+Unused Money: 62.17
+
+Score: 0.00 
+
+[ Round 7 ]
+
+4-4-2
+
+Goleiro -> Luiz Carlos Oliveira Bitencourt
+Lateral -> Crystian Souza Carvalho
+Lateral -> Ronan Queiroz de Paula Afonso
+Zagueiro -> Jesiel Cardoso Miranda
+Zagueiro -> Matheus Ferraz Pereira
+Meia -> Elano Blumer
+Meia -> Francisco Rithely da Silva Sousa
+Meia -> Hernani Azevedo Junior
+Meia -> Kaio Silva Mendes
+Atacante -> Judivan Flor da Silva
+Atacante -> Luan Guilherme de Jesus Vieira
+Técnico -> Odair Hellmann
+
+Team Price: 82.06
+Unused Money: 15.05
+
+Score: 17.50 
+
+[ Round 8 ]
+
+5-4-1
+
+Goleiro -> Júlio César Jacobi
+Lateral -> Fernando José da Cunha Neto
+Lateral -> Luiz Diallison de Souza Alves
+Zagueiro -> Douglas Ricardo Grolli
+Zagueiro -> Luiz Eduardo Rodrigues
+Zagueiro -> Rafael Marques Pinto
+Meia -> Carlos Eduardo Antônio dos Santos
+Meia -> Jean Raphael Vanderlei Moreira
+Meia -> Thiago Galhardo do Nascimento Rocha
+Atacante -> Nilmar Honorato da Silva
+Atacante -> Érico Francisco de Oliveira Junior
+Técnico -> Jorge Amorim de Oliveira Campos
+
+Team Price: 61.15
+Unused Money: 35.57
+
+Score: 5.20 
+
+[ Round 9 ]
+
+5-4-1
+
+Goleiro -> Renan Brito Soares
+Lateral -> Bruno Ferreira dos Santos
+Lateral -> Henrique Gelain Custódio
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Carlos Alberto Gomes de Jesus
+Meia -> Paulo Roberto da Silva
+Meia -> Rafael de Souza Pereira
+Atacante -> Marcos Yuri Goncalves da Silva de Souza
+Atacante -> Matheus Gonçalves Sávio
+Técnico -> Luis Antônio Venker de Menezes
+
+Team Price: 84.94
+Unused Money: 11.17
+
+Score: 9.40 
+
+[ Round 10 ]
+
+4-3-3
+
+Goleiro -> Vagner Antônio Brandalise
+Lateral -> Anderson Ferreira da Silva
+Lateral -> Daniel Guedes da Silva
+Zagueiro -> Matheus Simonete Bressanelli
+Zagueiro -> Rafael Vaz dos Santos
+Meia -> Daniel Correa Freitas
+Meia -> Ryder Matos Santos
+Meia -> Thiago Galhardo do Nascimento Rocha
+Atacante -> Givanildo Pulgas da Silva
+Atacante -> Joelinton Cassio Apolinário de Lira
+Atacante -> Marcos Antônio da Silva Gonçalves
+Técnico -> Wanderley Filho
+
+Team Price: 60.26
+Unused Money: 32.48
+
+Score: -6.80 
+
+[ Round 11 ]
+
+5-4-1
+
+Goleiro -> Marcelo Grohe
+Lateral -> Mayke Rocha de Oliveira
+Lateral -> Rafael Forster
+Zagueiro -> Cássio Alessandro de Souza
+Zagueiro -> Paulo André Cren Benini
+Zagueiro -> Pedro Tonon Geromel
+Meia -> Paulo Henrique Chagas de Lima
+Meia -> Rafael de Souza Pereira
+Meia -> Ygor Maciel Santiago
+Atacante -> Adrián Ricardo Centurión
+Atacante -> Marcos da Silva França
+Técnico -> Gilson Kleina
+
+Team Price: 91.16
+Unused Money: 1.43
+
+Score: 24.25 
+
+[ Round 12 ]
+
+5-4-1
+
+Goleiro -> Matheus Albino Carneiro
+Lateral -> Kevin Peterson Dos Santos Silva
+Lateral -> Pablo Estifer Armero
+Zagueiro -> Luiz Rhodolfo Dini Gaioto
+Zagueiro -> Lyanco Evangelista Silveira Neves Vojnov
+Zagueiro -> Matheus Simonete Bressanelli
+Meia -> Fábio Kauê Pires
+Meia -> Leandro Donizete Gonçalves da Silva
+Meia -> Rudnei da Rosa
+Atacante -> Jael Ferreira Vieira
+Atacante -> Pablo Nicolás Mouche
+Técnico -> Roger Machado Marques
+
+Team Price: 60.45
+Unused Money: 31.83
+
+Score: 5.57 
+
+[ Round 13 ]
+
+5-4-1
+
+Goleiro -> Marcelo Lomba do Nascimento
+Lateral -> Giovanni Palmieri dos Santos
+Lateral -> Lucas Taylor Maia Reis
+Zagueiro -> Ewerton Ribeiro Páscoa
+Zagueiro -> Lucas Veríssimo da Silva
+Zagueiro -> Luiz Antonio Linhares Garcia
+Meia -> Jean Raphael Vanderlei Moreira
+Meia -> Jonatan Lucca
+Meia -> Maicosuel Reginaldo de Matos
+Atacante -> Marcos Assis Santana
+Atacante -> William de Oliveira Pottker
+Técnico -> Jorge Amorim de Oliveira Campos
+
+Team Price: 81.73
+Unused Money: 11.39
+
+Score: 7.20 
+
+[ Round 14 ]
+
+4-5-1
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Ayrton Lucas Dantas de Medeiros
+Lateral -> Ronan Queiroz de Paula Afonso
+Zagueiro -> João Filipe Rabelo da Costa e Silva
+Zagueiro -> Welington Pereira Rodrigues
+Meia -> Francisco Edson Moreira da Silva
+Meia -> Gabriel Augusto Xavier
+Meia -> José Élber Pimentel da Silva
+Meia -> Paulo Henrique Chagas de Lima
+Meia -> Paulo Roberto da Silva
+Atacante -> Marcos da Silva França
+Técnico -> Odair Hellmann
+
+Team Price: 87.90
+Unused Money: 4.40
+
+Score: 13.70 
+
+[ Round 15 ]
+
+4-3-3
+
+Goleiro -> Charles Marcelo da Silva
+Lateral -> Carlos Eduardo Santos Oliveira
+Lateral -> Michel Gilioli
+Zagueiro -> Edson José da Silva
+Zagueiro -> Jubal Rocha Mendes Júnior
+Meia -> Héctor Canteros
+Meia -> Jéferson Rodrigues Gonçalves
+Meia -> Vinícius Goes Barbosa de Souza
+Atacante -> Eduardo Alves da Silva
+Atacante -> Matheus da Silva Fortes
+Atacante -> Vitor Xavier de Campos Humeni
+Técnico -> Diogo Giacomini
+
+Team Price: 54.91
+Unused Money: 34.67
+
+Score: 7.60 
+
+[ Round 16 ]
+
+4-5-1
+
+Goleiro -> Marcelo Lomba do Nascimento
+Lateral -> Alex da Silva
+Lateral -> Bruno Antonio dos Santos
+Zagueiro -> Alex Alves Cardoso
+Zagueiro -> Vitor Hugo Franchescoli de Souza
+Meia -> Douglas Augusto Soares Gomes
+Meia -> Felipe de Oliveira Silva
+Meia -> Jadson Alves dos Santos
+Meia -> Paulo Modesto da Silva Júnior
+Meia -> Ronaldo de Assis Moreira
+Atacante -> José Fagner Silva da Luz
+Técnico -> Wanderley Filho
+
+Team Price: 86.77
+Unused Money: 3.81
+
+Score: 3.70 
+
+[ Round 17 ]
+
+4-3-3
+
+Goleiro -> Tiago Machowski
+Lateral -> Egídio de Araújo Pereira Júnior
+Lateral -> Everton José Modesto Silva
+Zagueiro -> Carlos Eduardo Bacila Jatobá
+Zagueiro -> David de Duarte Macedo
+Meia ->  João Pedro Heinen Silva
+Meia -> Diogo Henrique Sodré
+Meia -> Marcos Aurélio de Oliveira Lima
+Atacante -> Marcos Assis Santana
+Atacante -> Márcio Passos de Albuquerque
+Atacante -> Vitor Xavier de Campos Humeni
+Técnico -> Adilson Dias Batista
+
+Team Price: 65.60
+Unused Money: 26.48
+
+Score: 26.50 
+
+[ Round 18 ]
+
+5-4-1
+
+Goleiro -> Agenor Detofol
+Lateral -> Artur Sérgio Batista de Souza
+Lateral -> João Paulo Gomes da Costa
+Zagueiro -> Rafael Dumas
+Zagueiro -> Rafael Henrique Zuchi
+Zagueiro -> Rafael Marques Pinto
+Meia -> Giovanni Augusto Oliveira Cardoso
+Meia -> Icaro Cosmo da Rocha
+Meia -> João Felipe Schimdt Urbano
+Atacante -> Erik Nascimento Lima
+Atacante -> Pablo Nicolás Mouche
+Técnico -> Adenor Leonardo Bachi
+
+Team Price: 63.35
+Unused Money: 26.80
+
+Score: 10.15 
+
+[ Round 19 ]
+
+5-4-1
+
+Goleiro -> Jhonatan Luiz da Siqueira 
+Lateral -> Claudio Winck Neto
+Lateral -> Guilherme Oliveira Santos
+Zagueiro -> Juan Silveira dos Santos
+Zagueiro -> Jubal Rocha Mendes Júnior
+Zagueiro -> Rafael Ferreira Donato
+Meia -> Bruno Vieira Gallo
+Meia -> Cicero Clebson Alves Santana
+Meia -> Maicon Talhetti
+Atacante -> Matheus Antonio Souza dos Santos
+Atacante -> Welinton Junior Ferreira dos Santos
+Técnico -> Paulo Roberto Falcão
+
+Team Price: 41.13
+Unused Money: 54.31
+
+Score: 0.00 
+
+[ Round 20 ]
+
+5-4-1
+
+Goleiro -> Jucemar de Oliveira Cordeiro Júnior
+Lateral -> Ayrton Luis Ganino
+Lateral -> Elton Divino Célio
+Zagueiro -> Douglas Ricardo Grolli
+Zagueiro -> Luiz Gustavo Domingues
+Zagueiro -> Marcelo Augusto Mathias da Silva
+Meia -> Erivonaldo Florencio de Oliveira Filho
+Meia -> Ronei Gleison Rodrigues dos Reis
+Meia -> Róbson Michael Signorini
+Atacante -> Gabriel Fernando de Jesus
+Atacante -> Osvaldo Lourenço Filho
+Técnico -> Jorge Amorim de Oliveira Campos
+
+Team Price: 58.63
+Unused Money: 36.81
+
+Score: 2.56 
+
+[ Round 21 ]
+
+4-5-1
+
+Goleiro -> Marcelo Grohe
+Lateral -> Pedro Guilherme Santos Felipe
+Lateral -> Samuel Xavier Brito
+Zagueiro -> Igor Brondani da Luz
+Zagueiro -> Vilson Xavier de Meneses Junior
+Meia -> Jaílson Marques Siqueira
+Meia -> Matheus Henrique Cassini de Paula
+Meia -> Matheus Pereira da Silva
+Meia -> Pablo Horacio Guiñazu
+Meia -> Toshiya Tojo
+Atacante -> Núbio Flávio Martins de Souza
+Técnico -> Sergio Agostinho de Oliveira Vieira
+
+Team Price: 53.08
+Unused Money: 45.58
+
+Score: 5.20 
+
+[ Round 22 ]
+
+4-5-1
+
+Goleiro -> Weverton Pereira da Silva
+Lateral -> Mário Sérgio Gomes de Souza
+Lateral -> Natanael Batista Pimenta
+Zagueiro -> Anderson Aparecido Salles
+Zagueiro -> Rodrigo Eduardo da Silva
+Meia -> Cicero Clebson Alves Santana
+Meia -> Josimar Rosado da Silva Tavares
+Meia -> Renato Escobar Baruffi
+Meia -> Richarlyson Barbosa Felisbino
+Meia -> Willian Roberto Farias
+Atacante -> Carlos Alberto Carvalho da Silva Júnior
+Técnico -> Hélio César Pinto dos Anjos
+
+Team Price: 96.36
+Unused Money: 1.22
+
+Score: 19.90 
+
+[ Round 23 ]
+
+3-4-3
+
+Goleiro -> Uilson Pedruzzi de Oliveira
+Zagueiro -> Edson José da Silva
+Zagueiro -> Paulo Ricardo Ferreira
+Zagueiro -> Philipe Maia de Freitas
+Meia -> Arthur Henrique Ramos de Oliveira Melo
+Meia -> Guilherme Costa Machado Silveira
+Meia -> Higor Rodrigues Barbosa Leite
+Meia -> Márcio José Oliveira
+Atacante -> Mateus Silva Machado
+Atacante -> Rafael Costa dos Santos
+Atacante -> Renato Kayser de Souza
+Técnico -> Marcelo Faria Fernandes
+
+Team Price: 38.32
+Unused Money: 60.68
+
+Score: 6.10 
+
+[ Round 24 ]
+
+3-5-2
+
+Goleiro -> Alan José Bernardon
+Zagueiro -> Emerson dos Santos Silva
+Zagueiro -> Fábio Ferreira da Silva
+Zagueiro -> Lucas Veríssimo da Silva
+Meia -> Fabrício Santos de Jesus
+Meia -> Gustavo Henrique Furtado Scarpa
+Meia -> Jonas Gomes de Sousa
+Meia -> Marcos Vicente dos Santos
+Meia -> Renan Henrique Oliveira Vieira
+Atacante -> Hernane Vidal Souza
+Atacante -> Silvio José Cardoso Reis Junior
+Técnico -> Sergio Agostinho de Oliveira Vieira
+
+Team Price: 64.95
+Unused Money: 33.41
+
+Score: -1.00 
+
+[ Round 25 ]
+
+3-5-2
+
+Goleiro -> Thiago Rodrigues da Silva
+Zagueiro -> Antônio Carlos dos Santos Aguiar
+Zagueiro -> David de Duarte Macedo
+Zagueiro -> Ewerton Ribeiro Páscoa
+Meia -> Eduardo da Silva Nascimento Neto
+Meia -> Icaro Cosmo da Rocha
+Meia -> Leandro Cordeiro de Lima Silva
+Meia -> Wagner Ricardo Silva da Silva
+Meia -> Willian Roberto Farias
+Atacante -> James Dean Araujo de Lima
+Atacante -> Lucas Heinzen Coelho
+Técnico -> René Rodrigues Simões
+
+Team Price: 47.13
+Unused Money: 52.56
+
+Score: -0.29 
+
+[ Round 26 ]
+
+5-4-1
+
+Goleiro -> Alisson Ramses Becker
+Lateral -> Lucas Lovat
+Lateral -> Roberto Heuchayer Santos de Araújo
+Zagueiro -> David Braz de Oliveira Filho
+Zagueiro -> Lucas Veríssimo da Silva
+Zagueiro -> Oswaldo Alfredo de Lima Gonçalves
+Meia -> Lucas Santos Siqueira
+Meia -> Marcelo Pereira da Costa
+Meia -> Wanderson Ferreira de Oliveira
+Atacante -> Bruno Henrique Pinto
+Atacante -> Diego Santos Gama Camilo
+Técnico -> Ricardo Drubscky
+
+Team Price: 91.00
+Unused Money: 7.91
+
+Score: 35.40 
+
+[ Round 27 ]
+
+4-5-1
+
+Goleiro -> João Paulo Silva Martins
+Lateral -> Guilherme Antonio Arana Lopes
+Lateral -> Sidcley Ferreira Pereira
+Zagueiro -> David Braz de Oliveira Filho
+Zagueiro -> Iago Justen Maidana Martins
+Meia -> David França Oliveira e Silva
+Meia -> Jadson Alves dos Santos
+Meia -> Maicon Thiago Pereira de Souza
+Meia -> Renato da Silva Júnior
+Meia -> Teodoro Junio Barbosa de Araújo
+Atacante -> Silvio José Cardoso Reis Junior
+Técnico -> Juan Carlos Osorio Arbeláez
+
+Team Price: 67.31
+Unused Money: 29.25
+
+Score: 3.84 
+
+[ Round 28 ]
+
+3-4-3
+
+Goleiro -> Walter Leandro Capeloza Artume
+Zagueiro -> Bruno Rodrigo Fenelon Palomo
+Zagueiro -> Felipe Afonso Zang
+Zagueiro -> Nirley da Silva Fonseca
+Meia -> Anderson Luís de Abreu Oliveira
+Meia -> Arthur Henrique Ramos de Oliveira Melo
+Meia -> Maylson Barbosa Teixeira
+Meia -> Michel Fernandes Bastos
+Atacante -> Clayton Silveira da Silva
+Atacante -> Nilton Soares Rodrigues
+Atacante -> Rafael Martiniano de Miranda Moura
+Técnico -> Vanderlei Luxemburgo da Silva
+
+Team Price: 74.97
+Unused Money: 22.03
+
+Score: 6.80 
+
+[ Round 29 ]
+
+5-3-2
+
+Goleiro -> Alex Roberto Santana Rafael 
+Lateral -> Ayrton Luis Ganino
+Lateral -> Wesley Fernandes Costa
+Zagueiro -> Jemerson de Jesus Nascimento
+Zagueiro -> Paulo Marcos de Jesus Ribeiro
+Zagueiro -> Wagner da Silva
+Meia -> Alex Paulo Menezes Santana
+Meia -> João Felipe Schimdt Urbano
+Meia -> Thiago Maia Alencar
+Atacante -> Marcos Yuri Goncalves da Silva de Souza
+Atacante -> William Júnior Salles de Lima Souza
+Técnico -> Wanderley Filho
+
+Team Price: 74.52
+Unused Money: 24.54
+
+Score: 21.30 
+
+[ Round 30 ]
+
+4-5-1
+
+Goleiro -> Denis Cesar de Matos
+Lateral -> Fabricio dos Santos Silva
+Lateral -> José Roberto da Silva Júnior
+Zagueiro -> Alan Henrique Costa
+Zagueiro -> Christian Alberto Vilches González
+Meia -> Fellipe Ramos Ignez Bastos
+Meia -> Gabriel Girotto Franco
+Meia -> Paulo Henrique Dias da Cruz
+Meia -> Raphael Dias Belolli
+Meia -> Renato da Silva Júnior
+Atacante -> Eduardo Colcenti Antunes
+Técnico -> Hemerson Maria
+
+Team Price: 99.12
+Unused Money: 1.66
+
+Score: 14.10 
+
+[ Round 31 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> David Braz de Oliveira Filho
+Zagueiro -> Igor Brondani da Luz
+Zagueiro -> Rafael Ramos de Lima
+Meia -> Gabriel Girotto Franco
+Meia -> Luís Fernando Müller
+Meia -> Marcelo dos Santos
+Meia -> Ryder Matos Santos
+Meia -> Willians Domingos Fernandes
+Atacante -> Kayke Moreno de Andrade Rodrigues
+Atacante -> Wellington Luis de Sousa
+Técnico -> Diogo Giacomini
+
+Team Price: 96.17
+Unused Money: 2.60
+
+Score: 4.70 
+
+[ Round 32 ]
+
+5-3-2
+
+Goleiro -> Uilson Pedruzzi de Oliveira
+Lateral -> Ayrton Luis Ganino
+Lateral -> Henrique Silva Milagres
+Zagueiro -> Hélio Hermito Zampier Neto
+Zagueiro -> Lyanco Evangelista Silveira Neves Vojnov
+Zagueiro -> Manoel Messias Silva Carvalho
+Meia -> Jhon Cley Jesus Silva
+Meia -> Luís Fernando Müller
+Meia -> Paulo Modesto da Silva Júnior
+Atacante -> Anderson José Lopes de Souza
+Atacante -> Fernando Viana Silva Jardim
+Técnico -> Roger Machado Marques
+
+Team Price: 59.56
+Unused Money: 34.59
+
+Score: 9.68 
+
+[ Round 33 ]
+
+5-3-2
+
+Goleiro -> Rogério Ceni
+Lateral -> Anderson Vieira de Oliveira
+Lateral -> José Renato da Silva Júnior
+Zagueiro -> Igor da Silva Candiota
+Zagueiro -> Leonardo Pereira
+Zagueiro -> Victor Oliveira
+Meia -> Andrés Nicolas D'Alessandro
+Meia -> Elano Blumer
+Meia -> Fabrício de Sousa
+Atacante -> Alejandro Martinuccio
+Atacante -> Fábio Souza dos Santos
+Técnico -> Enderson Alves Moreira
+
+Team Price: 92.66
+Unused Money: 1.44
+
+Score: 0.20 
+
+[ Round 34 ]
+
+4-4-2
+
+Goleiro -> Thiago Rodrigues da Silva
+Lateral -> Leonardo Pinheiro da Conceição
+Lateral -> Lucas René Olaza Catrofe
+Zagueiro -> André Luiz Baumer Nascimento
+Zagueiro -> Victor Oliveira
+Meia -> Carlos Eduardo Antônio dos Santos
+Meia -> José Élber Pimentel da Silva
+Meia -> Renato Dirnei Florêncio
+Meia -> Thomás Jaguaribe Bedinelli
+Atacante -> Magno Alves de Araújo
+Atacante -> Robson de Souza
+Técnico -> Ney Franco da Silveira Júnior
+
+Team Price: 84.75
+Unused Money: 9.19
+
+Score: -0.10 
+
+[ Round 35 ]
+
+4-4-2
+
+Goleiro -> Paulo Victor Mileo Vidotti
+Lateral -> Erick Fernando Brandão Daltro
+Lateral -> Malcoon Silva
+Zagueiro -> Carlos Eduardo Bacila Jatobá
+Zagueiro -> Rafael Vaz dos Santos
+Meia -> Everton Cardoso da Silva
+Meia -> Henrique Pacheco de Lima
+Meia -> Jadson Alves dos Santos
+Meia -> Marcos Arouca da Silva
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Edmílson dos Santos Silva
+Técnico -> Luiz Felipe Scolari
+
+Team Price: 78.00
+Unused Money: 16.31
+
+Score: 9.00 
+
+[ Round 36 ]
+
+3-4-3
+
+Goleiro -> Vitor Monteiro Luiz
+Zagueiro -> Thiago Heleno Henrique Ferreira
+Zagueiro -> Tiago dos Santos Alves
+Zagueiro -> Walisson Moreira Farias Maia
+Meia -> Andrés Nicolas D'Alessandro
+Meia -> Guilherme Felipe de Castro
+Meia -> Lucas Pierre Santos Oliveira
+Meia -> Lúcio Flávio dos Santos
+Atacante -> Adrián Ricardo Centurión
+Atacante -> Daniel da Silva dos Anjos
+Atacante -> Kleber Giacomace de Souza Freitas
+Técnico -> Argélico Fucks
+
+Team Price: 78.85
+Unused Money: 16.58
+
+Score: 17.75 
+
+[ Round 37 ]
+
+4-5-1
+
+Goleiro -> José Guilherme Sangaletti Serrano
+Lateral -> Guilherme Andrade Silva
+Lateral -> José Jefferson Rodrigues de Oliveira
+Zagueiro -> César Henrique Martins
+Zagueiro -> Ronaldo Luiz Alves
+Meia -> Augusto César dos Santos Moreira
+Meia -> Guilherme Costa Machado Silveira
+Meia -> Juliano Real Pacheco
+Meia -> Otávio Henrique Passos Santos
+Meia -> Petros Mateus dos Santos Araújo
+Atacante -> Alejandro Martinuccio
+Técnico -> Vanderlei Luxemburgo da Silva
+
+Team Price: 69.29
+Unused Money: 27.47
+
+Score: 10.20 
+
+[ Round 38 ]
+
+4-3-3
+
+Goleiro -> Bruno Brígido de Oliveira
+Lateral -> Breno Gonçalves Lopes
+Lateral -> Lucas René Olaza Catrofe
+Zagueiro -> Rafael de Jesus Bonfim 
+Zagueiro -> Wellington da Silva Pinto
+Meia -> Claudinei Junio De Souza
+Meia -> Everton Cardoso da Silva
+Meia -> Fabio Carvalho Matos
+Atacante -> Flávio Alex Valêncio
+Atacante -> Henrique Almeida Caixeta Nascentes
+Atacante -> Luan Guilherme de Jesus Vieira
+Técnico -> Felipe José Feres Moreira
+
+Team Price: 94.81
+Unused Money: 1.56
+
+Score: 16.54 
+
+...
+
+Total reward: 369.46

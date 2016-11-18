@@ -8,21 +8,22 @@ Cartola FC Environment for [OpenAI Gym](https://gym.openai.com/).
 
 * Python 3
 * [OpenAI Gym](https://gym.openai.com/)
+* Pyomo
+* Cbc
 
 **Setup**
 
 ```sh
 pip install gym
+pip install pyomo
 
 git clone https://github.com/cirocavani/cartola-game.git
 export PYTHONPATH=$(pwd)/cartola-game
-
-python -m cartola_game.exec gym_random 2015
 ```
 
 **Usage**
 
-[ [Code](doc/example.py) ] [ [Output](doc/example_out.txt) ]
+[ [Code](examples/gym_random.py) ] [ [Output](examples/gym_random_out.txt) ]
 
 ```python
 import gym

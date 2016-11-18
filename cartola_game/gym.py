@@ -7,6 +7,8 @@ from .data import load_season
 from .engine import GameEngine, GameInstance
 
 def gym_init():
+    if 'Cartola-v0' in gym.envs.registry.env_specs:
+        return
     gym.envs.registration.register(
         id='Cartola-v0',
         entry_point='cartola_game.gym:CartolaEnv',

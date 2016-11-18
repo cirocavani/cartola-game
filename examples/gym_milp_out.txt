@@ -1,0 +1,914 @@
+[2016-11-18 11:02:52,167] Making new env: Cartola-v0
+[ Round 1 ]
+
+4-4-2
+
+Goleiro -> Cássio Ramos
+Lateral -> Crystian Souza Carvalho
+Lateral -> Marcos Venâncio de Albuquerque
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Paulo Ricardo Ferreira
+Meia -> Denilson Pereira Neves
+Meia -> Eduardo Nascimento Costa
+Meia -> Jair Rodrigues Júnior
+Meia -> Matheus Pereira da Silva
+Atacante -> Alexandro da Silva Batista
+Atacante -> Thiago Rodrigues da Silva
+Técnico -> Marcos Vinícius dos Santos Gonçalves
+
+Team Price: 78.98
+Unused Money: 21.02
+
+Score: 17.07 
+
+opt_value: 81.61
+
+[ Round 2 ]
+
+4-3-3
+
+Goleiro -> Luan Polli Gomes
+Lateral -> Uendel Pereira Gonçalves
+Lateral -> William Cordeiro Melo
+Zagueiro -> Jonathan Doin
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Elicarlos Souza Santos
+Meia -> Josué Anunciado de Oliveira
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Vinícius Soares Eutropio
+
+Team Price: 103.72
+Unused Money: 0.86
+
+Score: 4.08 
+
+opt_value: 84.51
+
+[ Round 3 ]
+
+4-4-2
+
+Goleiro -> Paulo Victor Mileo Vidotti
+Lateral -> Matías Nicolás Rodríguez
+Lateral -> Uendel Pereira Gonçalves
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Vinícius Soares Eutropio
+
+Team Price: 109.94
+Unused Money: 0.70
+
+Score: -7.35 
+
+opt_value: 88.13
+
+[ Round 4 ]
+
+4-3-3
+
+Goleiro -> Paulo Victor Mileo Vidotti
+Lateral -> Giovanni Palmieri dos Santos
+Lateral -> Uendel Pereira Gonçalves
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Taiberson Ruan Menezes Nunes
+Atacante -> Yuri Souza Almeida
+Técnico -> Gilson Kleina
+
+Team Price: 111.44
+Unused Money: 0.87
+
+Score: -12.59 
+
+opt_value: 90.43
+
+[ Round 5 ]
+
+4-4-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Giovanni Palmieri dos Santos
+Lateral -> Uendel Pereira Gonçalves
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Henrique de Souza Trevisan
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Taiberson Ruan Menezes Nunes
+Atacante -> Yuri Souza Almeida
+Técnico -> Gilson Kleina
+
+Team Price: 114.50
+Unused Money: 1.36
+
+Score: -3.40 
+
+opt_value: 93.61
+
+[ Round 6 ]
+
+4-3-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Edílson Mendes Guimarães
+Lateral -> Uendel Pereira Gonçalves
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Victor Ramos Ferreira
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Vinícius Soares Eutropio
+
+Team Price: 120.32
+Unused Money: 1.38
+
+Score: -2.01 
+
+opt_value: 94.61
+
+[ Round 7 ]
+
+4-3-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Uendel Pereira Gonçalves
+Lateral -> William Cordeiro Melo
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Vinícius Soares Eutropio
+
+Team Price: 119.59
+Unused Money: 0.51
+
+Score: 3.89 
+
+opt_value: 95.57
+
+[ Round 8 ]
+
+4-5-1
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Uendel Pereira Gonçalves
+Lateral -> William Cordeiro Melo
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Yuri Souza Almeida
+Técnico -> Ricardo Drubscky
+
+Team Price: 117.98
+Unused Money: 0.06
+
+Score: -4.20 
+
+opt_value: 96.37
+
+[ Round 9 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 117.88
+Unused Money: 0.37
+
+Score: -2.10 
+
+opt_value: 96.37
+
+[ Round 10 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.97
+Unused Money: 0.37
+
+Score: -1.10 
+
+opt_value: 95.67
+
+[ Round 11 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.95
+Unused Money: 0.77
+
+Score: 6.70 
+
+opt_value: 95.67
+
+[ Round 12 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.92
+Unused Money: 0.77
+
+Score: 7.10 
+
+opt_value: 96.37
+
+[ Round 13 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 115.67
+Unused Money: 0.62
+
+Score: 1.80 
+
+opt_value: 95.67
+
+[ Round 14 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 115.71
+Unused Money: 1.23
+
+Score: 5.00 
+
+opt_value: 95.67
+
+[ Round 15 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Antonio Carlos Cunha Capocasali Júnior
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 114.74
+Unused Money: 1.23
+
+Score: 1.40 
+
+opt_value: 97.37
+
+[ Round 16 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 118.90
+Unused Money: 1.67
+
+Score: 7.10 
+
+opt_value: 97.37
+
+[ Round 17 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 115.93
+Unused Money: 1.67
+
+Score: -0.90 
+
+opt_value: 97.63
+
+[ Round 18 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Gilson Kleina
+
+Team Price: 116.78
+Unused Money: 0.85
+
+Score: -2.76 
+
+opt_value: 98.67
+
+[ Round 19 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.73
+Unused Money: 0.66
+
+Score: 7.80 
+
+opt_value: 99.29
+
+[ Round 20 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Hemerson Maria
+
+Team Price: 116.84
+Unused Money: 0.88
+
+Score: -7.20 
+
+opt_value: 99.29
+
+[ Round 21 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Hemerson Maria
+
+Team Price: 116.85
+Unused Money: 0.88
+
+Score: -1.10 
+
+opt_value: 99.87
+
+[ Round 22 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 117.73
+Unused Money: 0.39
+
+Score: 7.10 
+
+opt_value: 99.67
+
+[ Round 23 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.64
+Unused Money: 1.17
+
+Score: 4.50 
+
+opt_value: 100.87
+
+[ Round 24 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Taiberson Ruan Menezes Nunes
+Atacante -> Yuri Souza Almeida
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.89
+Unused Money: 0.15
+
+Score: -6.10 
+
+opt_value: 100.97
+
+[ Round 25 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Meia -> Régis Augusto Salmazzo
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 113.76
+Unused Money: 1.08
+
+Score: -5.80 
+
+opt_value: 101.59
+
+[ Round 26 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Hemerson Maria
+
+Team Price: 114.90
+Unused Money: 0.28
+
+Score: -0.30 
+
+opt_value: 100.97
+
+[ Round 27 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Régis Augusto Salmazzo
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.59
+Unused Money: 0.75
+
+Score: -9.50 
+
+opt_value: 102.79
+
+[ Round 28 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Hemerson Maria
+
+Team Price: 119.94
+Unused Money: 0.70
+
+Score: 2.70 
+
+opt_value: 102.79
+
+[ Round 29 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Hemerson Maria
+
+Team Price: 115.99
+Unused Money: 0.70
+
+Score: -6.10 
+
+opt_value: 102.07
+
+[ Round 30 ]
+
+3-5-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Elicarlos Souza Santos
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Ricardo Drubscky
+
+Team Price: 115.49
+Unused Money: 1.31
+
+Score: 1.60 
+
+opt_value: 103.17
+
+[ Round 31 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 116.72
+Unused Money: 0.53
+
+Score: 7.20 
+
+opt_value: 103.17
+
+[ Round 32 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 117.76
+Unused Money: 0.53
+
+Score: 6.60 
+
+opt_value: 103.17
+
+[ Round 33 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 118.99
+Unused Money: 0.53
+
+Score: 9.20 
+
+opt_value: 102.79
+
+[ Round 34 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Hemerson Maria
+
+Team Price: 116.82
+Unused Money: 1.04
+
+Score: 0.00 
+
+opt_value: 102.79
+
+[ Round 35 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Diego Queiroz de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Hemerson Maria
+
+Team Price: 114.41
+Unused Money: 1.04
+
+Score: -3.70 
+
+opt_value: 104.89
+
+[ Round 36 ]
+
+4-5-1
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Edílson Mendes Guimarães
+Lateral -> William Cordeiro Melo
+Zagueiro -> Henrique de Souza Trevisan
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Diego Souza de Andrade
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Yuri Souza Almeida
+Técnico -> Hemerson Maria
+
+Team Price: 120.96
+Unused Money: 1.01
+
+Score: -0.70 
+
+opt_value: 106.67
+
+[ Round 37 ]
+
+4-4-2
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Lateral -> Edílson Mendes Guimarães
+Lateral -> William Cordeiro Melo
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Técnico -> Ricardo Drubscky
+
+Team Price: 121.94
+Unused Money: 0.08
+
+Score: -1.90 
+
+opt_value: 106.57
+
+[ Round 38 ]
+
+3-4-3
+
+Goleiro -> Ederaldo Antônio de Oliveira
+Zagueiro -> Marlon Santos da Silva Barbosa
+Zagueiro -> Ricardo Martins de Araújo
+Zagueiro -> Yago Fernando da Silva
+Meia -> Eduardo Henrique da Silva
+Meia -> Felipe de Oliveira Silva
+Meia -> Josué Anunciado de Oliveira
+Meia -> Marcos Vicente dos Santos
+Atacante -> Kelvin Mateus de Oliveira
+Atacante -> Yuri Souza Almeida
+Atacante -> Ángel Rodrigo Romero Villamayor
+Técnico -> Ricardo Drubscky
+
+Team Price: 119.84
+Unused Money: 1.06
+
+Score: 1.30 
+
+...
+
+Total reward: 23.33
