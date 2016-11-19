@@ -13,8 +13,6 @@ Cartola FC Environment for [OpenAI Gym](https://gym.openai.com/).
 
 **Setup**
 
-Install Cbc.
-
 ```sh
 pip install gym
 pip install pyomo
@@ -22,6 +20,23 @@ pip install pyomo
 git clone https://github.com/cirocavani/cartola-game.git
 export PYTHONPATH=$(pwd)/cartola-game
 ```
+
+Coin-or Cbc:
+
+```
+(Ubuntu / Debian)
+sudo apt-get install coinor-cbc
+
+(Arch Linux)
+sudo pacman --sync coin-or-cbc
+
+(macOS)
+brew install cbc
+
+Static:
+http://ampl.com/products/solvers/open-source/#cbc
+```
+
 
 **Usage**
 
