@@ -31,6 +31,7 @@ sudo apt-get install coinor-cbc
 sudo pacman --sync coin-or-cbc
 
 (macOS)
+brew tap coin-or-tools/coinor
 brew install cbc
 
 Static:
