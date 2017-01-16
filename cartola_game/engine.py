@@ -91,10 +91,21 @@ class GameInstance:
 
     @property
     def total_money(self):
+        return self.free_money + self.team_price
+
+    @property
+    def free_money(self):
         if self.round_number == 1:
             return self.initial_money
         s = self.states[-1]
-        return s.money + self.data.price(s.team.players)
+        return s.money
+
+    @property
+    def team_price(self):
+        if self.round_number == 1:
+            return 0.0
+        s = self.states[-1]
+        return self.data.price(s.team.players)
 
     def run(self, team):
         if self.done:
