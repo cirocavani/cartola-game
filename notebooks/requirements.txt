@@ -1,0 +1,5 @@
+jupyter
+gym==0.7.4
+pyomo==5.2
+bokeh==0.12.5
+pandas==0.19.2 # bokeh compatibility
